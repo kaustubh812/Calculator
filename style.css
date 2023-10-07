@@ -15,7 +15,7 @@ h1{
 
 }
 
-#output{
+.output{
     position: absolute;
     width: 536px;
     height: 132px;
@@ -24,6 +24,10 @@ h1{
     background-color: black;
     left: 33vw;
     top: 18vh;
+    color: white;
+    font-size: 45px;
+    line-height: 130px;
+    text-align: right;
 }
 
 .container{
